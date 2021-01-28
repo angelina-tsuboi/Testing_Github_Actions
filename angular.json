@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "testing-github-actions"
+  "defaultProject": "testing-github-actions",
+  "cli": {
+    "analytics": false
+  }
 }
